@@ -2,7 +2,6 @@
 from zenrows import ZenRowsClient
 from bs4 import BeautifulSoup
 import requests
-from bs4 import BeautifulSoup
 import json
 import pandas as pd 
 import csv 
